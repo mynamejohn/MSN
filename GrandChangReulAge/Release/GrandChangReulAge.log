@@ -1,0 +1,241 @@
+﻿빌드 시작: 2015-07-17 오전 4:22:36
+     1>2 노드의 "D:\내꺼\Programs\마이크로소프트\Office 2013 도구\김성민 데이타\2015년 익스 1~2월 개발 MSN Games\EXDIO MSN Games 대창렬시대\GrandChangReulAge\GrandChangReulAge.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\irrKlang-32bit-1.5.0\irrKlang-1.5.0\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Background.cpp BaseObject.cpp Bullet.cpp Clear.cpp Curosr.cpp Device.cpp Effect.cpp Looper.cpp main.cpp Mainmenu.cpp Monster.cpp PauseScreen.cpp Picture.cpp Player.cpp rank.cpp Resources.cpp score.cpp Sound.cpp TestStage.cpp Texture.cpp BaseStage.cpp Tile.cpp TowerSelection.cpp
+         Background.cpp
+         BaseObject.cpp
+         Bullet.cpp
+     1>Bullet.cpp(41): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(42): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(74): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(175): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Bullet.cpp(192): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Bullet.cpp(195): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Bullet.cpp(211): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Bullet.cpp(214): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Bullet.cpp(246): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(256): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(257): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Bullet.cpp(266): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(267): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Bullet.cpp(287): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Bullet.cpp(295): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Bullet.cpp(303): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Bullet.cpp(323): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(324): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(325): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(328): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>Bullet.cpp(375): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>Bullet.cpp(387): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(468): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(469): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(470): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(494): warning C4244: '인수' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(500): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(501): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(502): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(536): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(537): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(538): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(551): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>Bullet.cpp(585): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>Bullet.cpp(593): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(601): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(602): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(603): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(642): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(643): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(644): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(648): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(649): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(664): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(665): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(666): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(684): warning C4244: '인수' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(693): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(694): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(695): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(706): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>Bullet.cpp(740): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>Bullet.cpp(748): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(760): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(761): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(762): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(895): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(896): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(897): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(905): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(920): warning C4244: '인수' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(948): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(949): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(950): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(988): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(994): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1010): warning C4244: '인수' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1028): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1029): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1030): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1039): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>Bullet.cpp(1073): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>Bullet.cpp(1082): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1089): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1090): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1091): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1130): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1131): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1132): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1156): warning C4244: '인수' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1175): warning C4244: '인수' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1176): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Bullet.cpp(1177): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         Clear.cpp
+         Curosr.cpp
+     1>Curosr.cpp(24): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Curosr.cpp(25): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         Device.cpp
+         Effect.cpp
+     1>Effect.cpp(48): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(55): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(61): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(67): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(73): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(79): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(85): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>Effect.cpp(95): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(109): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(124): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(140): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(155): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(170): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(185): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(202): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(218): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(232): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(249): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(264): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(281): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(310): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(313): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(338): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(341): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(366): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(369): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(396): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(399): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(424): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(427): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(452): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(455): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(482): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(485): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(510): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(513): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(538): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(541): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(568): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Effect.cpp(571): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         Looper.cpp
+         main.cpp
+         Mainmenu.cpp
+     1>Mainmenu.cpp(26): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Mainmenu.cpp(74): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         Monster.cpp
+     1>Monster.cpp(80): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(177): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(242): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(330): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(347): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(348): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(408): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(641): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(662): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(682): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(713): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(714): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(721): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(722): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(729): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(730): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(736): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(737): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(743): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(744): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(857): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(858): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(942): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(943): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(1027): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(1028): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(1112): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(1113): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(1197): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Monster.cpp(1198): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         PauseScreen.cpp
+         Picture.cpp
+     1>Picture.cpp(14): warning C4244: '=' : 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Picture.cpp(15): warning C4244: '=' : 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Picture.cpp(21): warning C4244: '=' : 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Picture.cpp(22): warning C4244: '=' : 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Picture.cpp(28): warning C4244: '=' : 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Picture.cpp(36): warning C4244: '=' : 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         Player.cpp
+         rank.cpp
+         Resources.cpp
+         score.cpp
+     1>score.cpp(42): warning C4244: '인수' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>score.cpp(45): warning C4244: '인수' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>score.cpp(48): warning C4244: '인수' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>score.cpp(51): warning C4244: '인수' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>score.cpp(54): warning C4244: '인수' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>score.cpp(57): warning C4244: '인수' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         Sound.cpp
+         TestStage.cpp
+     1>TestStage.cpp(235): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         Texture.cpp
+         컴파일하고 있습니다...
+         BaseStage.cpp
+         Tile.cpp
+     1>Tile.cpp(30): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Tile.cpp(43): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Tile.cpp(55): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Tile.cpp(161): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Tile.cpp(169): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Tile.cpp(173): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Tile.cpp(174): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Tile.cpp(175): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Tile.cpp(564): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>Tile.cpp(565): warning C4244: '=' : 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         TowerSelection.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\내꺼\Programs\마이크로소프트\Office 2013 도구\김성민 데이타\2015년 익스 1~2월 개발 MSN Games\EXDIO MSN Games 대창렬시대\Release\GrandChangReulAge.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\irrKlang-32bit-1.5.0\irrKlang-1.5.0\lib\Win32-visualStudio" d3dxof.lib dxguid.lib d3dx9.lib d3d9.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\내꺼\Programs\마이크로소프트\Office 2013 도구\김성민 데이타\2015년 익스 1~2월 개발 MSN Games\EXDIO MSN Games 대창렬시대\Release\GrandChangReulAge.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\내꺼\Programs\마이크로소프트\Office 2013 도구\김성민 데이타\2015년 익스 1~2월 개발 MSN Games\EXDIO MSN Games 대창렬시대\Release\GrandChangReulAge.lib" /MACHINE:X86 /SAFESEH Release\Background.obj
+         Release\BaseObject.obj
+         Release\Bullet.obj
+         Release\Clear.obj
+         Release\Curosr.obj
+         Release\Device.obj
+         Release\Effect.obj
+         Release\Looper.obj
+         Release\main.obj
+         Release\Mainmenu.obj
+         Release\Monster.obj
+         Release\PauseScreen.obj
+         Release\Picture.obj
+         Release\Player.obj
+         Release\rank.obj
+         Release\Resources.obj
+         Release\score.obj
+         Release\Sound.obj
+         Release\TestStage.obj
+         Release\Texture.obj
+         Release\BaseStage.obj
+         Release\Tile.obj
+         Release\TowerSelection.obj
+         코드를 생성하고 있습니다.
+     1>d:\내꺼\programs\마이크로소프트\office 2013 도구\김성민 데이타\2015년 익스 1~2월 개발 msn games\exdio msn games 대창렬시대\grandchangreulage\tile.cpp(309): warning C4715: 'CTile::Check' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+         코드를 생성했습니다.
+         GrandChangReulAge.vcxproj -> D:\내꺼\Programs\마이크로소프트\Office 2013 도구\김성민 데이타\2015년 익스 1~2월 개발 MSN Games\EXDIO MSN Games 대창렬시대\Release\GrandChangReulAge.exe
+     1>"D:\내꺼\Programs\마이크로소프트\Office 2013 도구\김성민 데이타\2015년 익스 1~2월 개발 MSN Games\EXDIO MSN Games 대창렬시대\GrandChangReulAge\GrandChangReulAge.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:15.46
